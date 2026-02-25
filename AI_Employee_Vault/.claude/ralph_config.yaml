@@ -1,0 +1,21 @@
+# Ralph Wiggum Configuration
+# This file configures the Ralph Wiggum persistence plugin for Claude Code
+
+# Plugin Settings
+max_iterations: 10
+check_interval: 5
+log_level: info
+
+# Completion Detection
+# The task is considered complete when:
+# 1. Needs_Action folder is empty (no .md files)
+# 2. OR a task_complete.flag file is created
+# 3. OR max_iterations is reached
+
+# Usage:
+# 1. Start Ralph mode: python .claude/plugins/ralph_wiggum.py <vault_path> "<prompt>"
+# 2. Run Claude: claude --prompt "<prompt>"
+# 3. Ralph will automatically re-inject the prompt if work remains
+
+# Example:
+# python .claude/plugins/ralph_wiggum.py . "Process all files in /Needs_Action and create plans"

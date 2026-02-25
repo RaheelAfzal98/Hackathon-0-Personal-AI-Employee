@@ -1,0 +1,547 @@
+2026-02-25 08:10:32,841 - Orchestrator - INFO - Orchestrator initialized
+2026-02-25 08:10:32,842 - Orchestrator - INFO - Vault: .
+2026-02-25 08:10:32,842 - Orchestrator - INFO - Dry run: False
+2026-02-25 08:10:32,842 - Orchestrator - INFO - Starting Orchestrator (interval: 30s)
+2026-02-25 08:10:32,843 - Orchestrator - INFO - Press Ctrl+C to stop
+2026-02-25 08:10:32,843 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:10:32,848 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:10:32,849 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:10:32,877 - Orchestrator - ERROR - Claude Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:10:32,877 - Orchestrator - ERROR - Install with: npm install -g @anthropic/claude-code
+2026-02-25 08:10:32,881 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:10:32,881 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:11:02,882 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:11:02,884 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:11:02,885 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:11:02,948 - Orchestrator - ERROR - Claude Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:11:02,948 - Orchestrator - ERROR - Install with: npm install -g @anthropic/claude-code
+2026-02-25 08:11:02,976 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:11:02,977 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:11:32,977 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:11:32,979 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:11:32,979 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:11:33,010 - Orchestrator - ERROR - Claude Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:11:33,010 - Orchestrator - ERROR - Install with: npm install -g @anthropic/claude-code
+2026-02-25 08:11:33,026 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:11:33,027 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:12:03,027 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:12:03,034 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:12:03,035 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:12:03,116 - Orchestrator - ERROR - Claude Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:12:03,116 - Orchestrator - ERROR - Install with: npm install -g @anthropic/claude-code
+2026-02-25 08:12:03,139 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:12:03,140 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:12:33,141 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:12:33,155 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:12:33,157 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:12:33,236 - Orchestrator - ERROR - Claude Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:12:33,236 - Orchestrator - ERROR - Install with: npm install -g @anthropic/claude-code
+2026-02-25 08:12:33,270 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:12:33,271 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:13:03,272 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:13:03,284 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:13:03,285 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:13:03,352 - Orchestrator - ERROR - Claude Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:13:03,353 - Orchestrator - ERROR - Install with: npm install -g @anthropic/claude-code
+2026-02-25 08:13:03,385 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:13:03,386 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:13:33,388 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:13:33,393 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:13:33,395 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:13:33,471 - Orchestrator - ERROR - Claude Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:13:33,472 - Orchestrator - ERROR - Install with: npm install -g @anthropic/claude-code
+2026-02-25 08:13:33,505 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:13:33,506 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:14:03,507 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:14:03,513 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:14:03,515 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:14:03,588 - Orchestrator - ERROR - Claude Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:14:03,589 - Orchestrator - ERROR - Install with: npm install -g @anthropic/claude-code
+2026-02-25 08:14:03,609 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:14:03,610 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:14:33,611 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:14:33,624 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:14:33,625 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:14:33,685 - Orchestrator - ERROR - Claude Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:14:33,686 - Orchestrator - ERROR - Install with: npm install -g @anthropic/claude-code
+2026-02-25 08:14:33,707 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:14:33,708 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:15:03,710 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:15:03,717 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:15:03,718 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:15:03,779 - Orchestrator - ERROR - Claude Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:15:03,780 - Orchestrator - ERROR - Install with: npm install -g @anthropic/claude-code
+2026-02-25 08:15:03,814 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:15:03,815 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:15:33,817 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:15:33,822 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:15:33,825 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:15:33,894 - Orchestrator - ERROR - Claude Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:15:33,894 - Orchestrator - ERROR - Install with: npm install -g @anthropic/claude-code
+2026-02-25 08:15:33,914 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:15:33,914 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:16:03,916 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:16:03,922 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:16:03,924 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:16:03,999 - Orchestrator - ERROR - Claude Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:16:03,999 - Orchestrator - ERROR - Install with: npm install -g @anthropic/claude-code
+2026-02-25 08:16:04,020 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:16:04,020 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:16:34,022 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:16:34,028 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:16:34,030 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:16:34,096 - Orchestrator - ERROR - Claude Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:16:34,096 - Orchestrator - ERROR - Install with: npm install -g @anthropic/claude-code
+2026-02-25 08:16:34,125 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:16:34,126 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:17:04,127 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:17:04,132 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:17:04,135 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:17:04,212 - Orchestrator - ERROR - Claude Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:17:04,212 - Orchestrator - ERROR - Install with: npm install -g @anthropic/claude-code
+2026-02-25 08:17:04,243 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:17:04,243 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:17:34,246 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:17:34,248 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:17:34,250 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:17:34,282 - Orchestrator - ERROR - Claude Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:17:34,283 - Orchestrator - ERROR - Install with: npm install -g @anthropic/claude-code
+2026-02-25 08:17:34,300 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:17:34,301 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:18:04,302 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:18:04,307 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:18:04,310 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:18:04,382 - Orchestrator - ERROR - Claude Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:18:04,383 - Orchestrator - ERROR - Install with: npm install -g @anthropic/claude-code
+2026-02-25 08:18:04,416 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:18:04,417 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:18:34,419 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:18:34,424 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:18:34,426 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:18:34,485 - Orchestrator - ERROR - Claude Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:18:34,485 - Orchestrator - ERROR - Install with: npm install -g @anthropic/claude-code
+2026-02-25 08:18:34,504 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:18:34,505 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:19:04,506 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:19:04,513 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:19:04,514 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:19:04,635 - Orchestrator - ERROR - Claude Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:19:04,655 - Orchestrator - ERROR - Install with: npm install -g @anthropic/claude-code
+2026-02-25 08:19:04,708 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:19:04,708 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:19:34,711 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:19:34,717 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:19:34,718 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:19:34,784 - Orchestrator - ERROR - Claude Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:19:34,785 - Orchestrator - ERROR - Install with: npm install -g @anthropic/claude-code
+2026-02-25 08:19:34,814 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:19:34,815 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:20:04,816 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:20:04,819 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:20:04,821 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:20:04,855 - Orchestrator - ERROR - Claude Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:20:04,856 - Orchestrator - ERROR - Install with: npm install -g @anthropic/claude-code
+2026-02-25 08:20:04,878 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:20:04,878 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:20:34,917 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:20:34,966 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:20:34,990 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:20:35,110 - Orchestrator - ERROR - Claude Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:20:35,145 - Orchestrator - ERROR - Install with: npm install -g @anthropic/claude-code
+2026-02-25 08:20:35,304 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:20:35,304 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:21:05,308 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:21:05,310 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:21:05,316 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:21:05,383 - Orchestrator - ERROR - Claude Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:21:05,383 - Orchestrator - ERROR - Install with: npm install -g @anthropic/claude-code
+2026-02-25 08:21:05,408 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:21:05,409 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:21:35,413 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:21:35,416 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:21:35,419 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:21:35,479 - Orchestrator - ERROR - Claude Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:21:35,480 - Orchestrator - ERROR - Install with: npm install -g @anthropic/claude-code
+2026-02-25 08:21:35,514 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:21:35,515 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:22:05,517 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:22:05,519 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:22:05,524 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:22:05,551 - Orchestrator - ERROR - Claude Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:22:05,551 - Orchestrator - ERROR - Install with: npm install -g @anthropic/claude-code
+2026-02-25 08:22:05,583 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:22:05,584 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:22:35,585 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:22:35,592 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:22:35,594 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:22:35,646 - Orchestrator - ERROR - Claude Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:22:35,647 - Orchestrator - ERROR - Install with: npm install -g @anthropic/claude-code
+2026-02-25 08:22:35,664 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:22:35,664 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:23:05,666 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:23:05,672 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:23:05,673 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:23:05,727 - Orchestrator - ERROR - Claude Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:23:05,727 - Orchestrator - ERROR - Install with: npm install -g @anthropic/claude-code
+2026-02-25 08:23:05,734 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:23:05,734 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:23:35,735 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:23:35,736 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:23:35,737 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:23:35,767 - Orchestrator - ERROR - Claude Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:23:35,767 - Orchestrator - ERROR - Install with: npm install -g @anthropic/claude-code
+2026-02-25 08:23:35,784 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:23:35,784 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:24:05,785 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:24:05,791 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:24:05,794 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:24:05,848 - Orchestrator - ERROR - Claude Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:24:05,849 - Orchestrator - ERROR - Install with: npm install -g @anthropic/claude-code
+2026-02-25 08:24:05,865 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:24:05,865 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:24:28,508 - Orchestrator - INFO - Orchestrator stopped by user
+2026-02-25 08:24:31,123 - Orchestrator - INFO - Orchestrator initialized
+2026-02-25 08:24:31,124 - Orchestrator - INFO - Vault: .
+2026-02-25 08:24:31,124 - Orchestrator - INFO - Dry run: False
+2026-02-25 08:24:31,124 - Orchestrator - INFO - Starting Orchestrator (interval: 30s)
+2026-02-25 08:24:31,124 - Orchestrator - INFO - Press Ctrl+C to stop
+2026-02-25 08:24:31,124 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:24:31,125 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:24:31,126 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:24:31,150 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:24:31,151 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:24:31,168 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:24:31,168 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:25:01,170 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:25:01,172 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:25:01,172 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:25:01,204 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:25:01,205 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:25:01,224 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:25:01,224 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:25:31,225 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:25:31,229 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:25:31,230 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:25:31,269 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:25:31,269 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:25:31,290 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:25:31,290 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:26:01,292 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:26:01,293 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:26:01,294 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:26:01,334 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:26:01,334 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:26:01,354 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:26:01,354 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:26:31,359 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:26:31,360 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:26:31,361 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:26:31,408 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:26:31,409 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:26:31,470 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:26:31,532 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:27:01,573 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:27:01,574 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:27:01,575 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:27:01,612 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:27:01,613 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:27:01,646 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:27:01,647 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:27:31,672 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:27:31,701 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:27:31,702 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:27:31,773 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:27:31,773 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:27:31,816 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:27:31,816 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:28:01,818 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:28:01,819 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:28:01,820 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:28:01,872 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:28:01,872 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:28:01,902 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:28:01,903 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:28:31,907 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:28:31,909 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:28:31,910 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:28:31,960 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:28:31,961 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:28:31,980 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:28:31,981 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:29:01,992 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:29:01,994 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:29:01,994 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:29:02,046 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:29:02,046 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:29:02,076 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:29:02,076 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:29:32,077 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:29:32,083 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:29:32,084 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:29:32,113 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:29:32,113 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:29:32,138 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:29:32,139 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:30:02,139 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:30:02,145 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:30:02,145 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:30:02,183 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:30:02,184 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:30:02,218 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:30:02,218 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:30:32,224 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:30:32,229 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:30:32,230 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:30:32,284 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:30:32,285 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:30:32,328 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:30:32,328 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:30:54,441 - Orchestrator - INFO - Orchestrator stopped by user
+2026-02-25 08:30:56,170 - Orchestrator - INFO - Orchestrator initialized
+2026-02-25 08:30:56,170 - Orchestrator - INFO - Vault: .
+2026-02-25 08:30:56,171 - Orchestrator - INFO - Dry run: False
+2026-02-25 08:30:56,171 - Orchestrator - INFO - Starting Orchestrator (interval: 30s)
+2026-02-25 08:30:56,171 - Orchestrator - INFO - Press Ctrl+C to stop
+2026-02-25 08:30:56,171 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:30:56,172 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:30:56,173 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:30:56,199 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:30:56,199 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:30:56,220 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:30:56,220 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:31:26,221 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:31:26,226 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:31:26,228 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:31:26,283 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:31:26,283 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:31:26,302 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:31:26,302 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:31:56,304 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:31:56,306 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:31:56,307 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:31:56,344 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:31:56,345 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:31:56,389 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:31:56,389 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:32:26,392 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:32:26,394 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:32:26,396 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:32:26,431 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:32:26,432 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:32:26,465 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:32:26,465 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:32:56,468 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:32:56,471 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:32:56,471 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:32:56,522 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:32:56,523 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:32:56,546 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:32:56,547 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:32:59,655 - Orchestrator - INFO - Orchestrator initialized
+2026-02-25 08:32:59,655 - Orchestrator - INFO - Vault: .
+2026-02-25 08:32:59,655 - Orchestrator - INFO - Dry run: True
+2026-02-25 08:32:59,655 - Orchestrator - INFO - Starting Orchestrator (interval: 5s)
+2026-02-25 08:32:59,655 - Orchestrator - INFO - Press Ctrl+C to stop
+2026-02-25 08:32:59,655 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:32:59,657 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:32:59,657 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:32:59,657 - Orchestrator - INFO - [DRY RUN] Would trigger Qwen Code with prompt: You are the AI Employee. Process the following 1 item(s) in the Needs_Action folder:
+
+- test-file.md...
+2026-02-25 08:32:59,678 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:32:59,679 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:33:04,679 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:33:04,680 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:33:04,680 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:33:04,681 - Orchestrator - INFO - [DRY RUN] Would trigger Qwen Code with prompt: You are the AI Employee. Process the following 1 item(s) in the Needs_Action folder:
+
+- test-file.md...
+2026-02-25 08:33:04,687 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:33:04,687 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:33:09,688 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:33:09,689 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:33:09,690 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:33:09,690 - Orchestrator - INFO - [DRY RUN] Would trigger Qwen Code with prompt: You are the AI Employee. Process the following 1 item(s) in the Needs_Action folder:
+
+- test-file.md...
+2026-02-25 08:33:09,691 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:33:09,691 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:33:14,693 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:33:14,694 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:33:14,694 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:33:14,694 - Orchestrator - INFO - [DRY RUN] Would trigger Qwen Code with prompt: You are the AI Employee. Process the following 1 item(s) in the Needs_Action folder:
+
+- test-file.md...
+2026-02-25 08:33:14,696 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:33:14,696 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:33:19,697 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:33:19,701 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:33:19,702 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:33:19,702 - Orchestrator - INFO - [DRY RUN] Would trigger Qwen Code with prompt: You are the AI Employee. Process the following 1 item(s) in the Needs_Action folder:
+
+- test-file.md...
+2026-02-25 08:33:19,703 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:33:19,703 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:33:24,703 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:33:24,704 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:33:24,705 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:33:24,705 - Orchestrator - INFO - [DRY RUN] Would trigger Qwen Code with prompt: You are the AI Employee. Process the following 1 item(s) in the Needs_Action folder:
+
+- test-file.md...
+2026-02-25 08:33:24,706 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:33:24,706 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:33:26,550 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:33:26,551 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:33:26,552 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:33:26,584 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:33:26,585 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:33:26,590 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:33:26,590 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:33:56,595 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:33:56,599 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:33:56,600 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:33:56,641 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:33:56,641 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:33:56,704 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:33:56,704 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:34:26,706 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:34:26,712 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:34:26,714 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:34:26,766 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:34:26,766 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:34:26,786 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:34:26,786 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:34:33,552 - Orchestrator - INFO - Orchestrator stopped by user
+2026-02-25 08:34:35,444 - Orchestrator - INFO - Orchestrator initialized
+2026-02-25 08:34:35,444 - Orchestrator - INFO - Vault: .
+2026-02-25 08:34:35,445 - Orchestrator - INFO - Dry run: False
+2026-02-25 08:34:35,445 - Orchestrator - INFO - Starting Orchestrator (interval: 30s)
+2026-02-25 08:34:35,445 - Orchestrator - INFO - Press Ctrl+C to stop
+2026-02-25 08:34:35,445 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:34:35,446 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:34:35,447 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:34:35,468 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:34:35,468 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:34:35,487 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:34:35,487 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:35:14,066 - Orchestrator - INFO - Orchestrator initialized
+2026-02-25 08:35:14,066 - Orchestrator - INFO - Vault: .
+2026-02-25 08:35:14,067 - Orchestrator - INFO - Dry run: False
+2026-02-25 08:35:14,067 - Orchestrator - INFO - Starting Orchestrator (interval: 30s)
+2026-02-25 08:35:14,067 - Orchestrator - INFO - Press Ctrl+C to stop
+2026-02-25 08:35:14,067 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:35:14,068 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:35:14,069 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:35:14,090 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:35:14,090 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:35:14,108 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:35:14,108 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:35:44,109 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:35:44,113 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:35:44,115 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:35:44,165 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:35:44,166 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:35:44,184 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:35:44,184 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:36:14,185 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:36:14,187 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:36:14,188 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:36:14,226 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:36:14,226 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:36:14,252 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:36:14,252 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:36:44,253 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:36:44,258 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:36:44,261 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:36:44,311 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:36:44,311 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:36:44,332 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:36:44,332 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:37:04,453 - Orchestrator - INFO - Orchestrator initialized
+2026-02-25 08:37:04,453 - Orchestrator - INFO - Vault: .
+2026-02-25 08:37:04,453 - Orchestrator - INFO - Dry run: True
+2026-02-25 08:37:04,453 - Orchestrator - INFO - Starting Orchestrator (interval: 60s)
+2026-02-25 08:37:04,453 - Orchestrator - INFO - Press Ctrl+C to stop
+2026-02-25 08:37:04,453 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:37:04,454 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:37:04,454 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:37:04,454 - Orchestrator - INFO - [DRY RUN] Would trigger Qwen Code with prompt: You are the AI Employee. Process the following 1 item(s) in the Needs_Action folder:
+
+- test-file.md...
+2026-02-25 08:37:04,468 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:37:04,468 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:37:14,334 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:37:14,340 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:37:14,342 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:37:14,383 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:37:14,384 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:37:14,388 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:37:14,389 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:37:44,390 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:37:44,393 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:37:44,394 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:37:44,427 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:37:44,428 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:37:44,452 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:37:44,452 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:38:14,453 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:38:14,455 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:38:14,456 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:38:14,486 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:38:14,486 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:38:14,511 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:38:14,512 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:38:44,515 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:38:44,520 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:38:44,522 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:38:44,623 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:38:44,623 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:38:44,662 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:38:44,662 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:39:14,665 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:39:14,667 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:39:14,669 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:39:14,710 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:39:14,719 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:39:14,771 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:39:14,772 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:39:44,775 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:39:44,777 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:39:44,778 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:39:44,822 - Orchestrator - ERROR - Qwen Code not found. Make sure it's installed and in PATH.
+2026-02-25 08:39:44,822 - Orchestrator - ERROR - Install Qwen Code first.
+2026-02-25 08:39:44,849 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:39:44,849 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:39:58,971 - Orchestrator - INFO - Orchestrator stopped by user
+2026-02-25 08:40:00,477 - Orchestrator - INFO - Orchestrator initialized
+2026-02-25 08:40:00,477 - Orchestrator - INFO - Vault: .
+2026-02-25 08:40:00,478 - Orchestrator - INFO - Dry run: False
+2026-02-25 08:40:00,478 - Orchestrator - INFO - Starting Orchestrator (interval: 30s)
+2026-02-25 08:40:00,478 - Orchestrator - INFO - Press Ctrl+C to stop
+2026-02-25 08:40:00,478 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:40:00,480 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:40:00,480 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:40:51,478 - Orchestrator - INFO - Qwen Code processing completed successfully
+2026-02-25 08:40:51,506 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:40:51,507 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:41:21,510 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:41:21,515 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:41:21,518 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:42:03,506 - Orchestrator - INFO - Qwen Code processing completed successfully
+2026-02-25 08:42:03,530 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:42:03,530 - Orchestrator - INFO - Orchestration cycle complete
+2026-02-25 08:42:33,536 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:42:33,539 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:42:33,539 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:43:06,558 - Orchestrator - INFO - Orchestrator stopped by user
+2026-02-25 08:43:08,233 - Orchestrator - INFO - Orchestrator initialized
+2026-02-25 08:43:08,234 - Orchestrator - INFO - Vault: .
+2026-02-25 08:43:08,234 - Orchestrator - INFO - Dry run: False
+2026-02-25 08:43:08,234 - Orchestrator - INFO - Starting Orchestrator (interval: 30s)
+2026-02-25 08:43:08,235 - Orchestrator - INFO - Press Ctrl+C to stop
+2026-02-25 08:43:08,236 - Orchestrator - INFO - Starting orchestration cycle
+2026-02-25 08:43:08,238 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:43:08,239 - Orchestrator - INFO - Found 1 pending item(s)
+2026-02-25 08:43:39,027 - Orchestrator - INFO - Qwen Code processing completed successfully
+2026-02-25 08:43:39,044 - Orchestrator - INFO - Dashboard updated
+2026-02-25 08:43:39,044 - Orchestrator - INFO - Orchestration cycle complete
